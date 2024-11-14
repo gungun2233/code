@@ -1,8 +1,8 @@
 import time
 t = time.strftime('%H:%M:%S') 
 hour = int(time.strftime('%H')) #"strftime" stands for "string format time used for time formation specified 
-# hour = int(input("Enter hour: "))
-# print(hour)
+hour = int(input("Enter hour: "))
+print(hour)
 
 if(hour>=0 and hour<12):
   print("Good Morning Sir!")

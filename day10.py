@@ -6,6 +6,6 @@ print(int(a) + int(b))
 
 # Implicit TypeCasting
 c = 1.9
-d = 8
+d = 7
 
 print(c + d)

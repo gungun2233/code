@@ -20,7 +20,7 @@ print(c)
 
 
 # def name(**name):
-#   # print(type(name))
+
 
 
 

@@ -8,7 +8,7 @@ def average(*numbers):
   for i in numbers:
     sum = sum + i
   # print("Average is: ", sum / len(numbers))
-  # return 7
+ 
   return sum / len(numbers)
 
 

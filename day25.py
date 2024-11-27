@@ -12,7 +12,7 @@ def average(*numbers):
   return sum / len(numbers)
 
 
-# average(4, 6)
+
 
 c = average(5, 6, 7, 1)
 print(c)

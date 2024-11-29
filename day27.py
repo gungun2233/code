@@ -18,7 +18,7 @@ if "6" in marks:
 else:
    print("No")
 
-# Same thing applies for strings as well!
+
 if "Ha" in "Harry":
  print("Yes")
 

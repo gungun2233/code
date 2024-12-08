@@ -3,7 +3,6 @@ b = True
 c = "Harry"
 d = None
 print(a)
-print(b)
 a1 = 9
 print(a + a1)
 print("The type of a is ", type(a))

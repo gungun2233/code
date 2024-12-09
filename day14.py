@@ -52,5 +52,3 @@ print(str1.startswith("Python"))
 str1 = "Python is a Interpreted Language" 
 print(str1.swapcase())
 
-str1 = "His name is Dan. Dan is an honest man."
-print(str1.title())

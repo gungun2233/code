@@ -6,7 +6,7 @@ Hi Harry
 hey I am good
 "I want to eat an apple'''
  
-print("Hello, " + name)
+
 # print(apple) 
 print(name[0])
 print(name[1])

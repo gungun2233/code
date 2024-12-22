@@ -19,8 +19,6 @@ else:
    print("No")
 
 
-if "Ha" in "Harry":
- print("Yes")
 
 print(marks[0:7])
 print(marks[1:9])

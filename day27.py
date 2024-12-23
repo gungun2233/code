@@ -20,7 +20,7 @@ else:
 
 
 
-print(marks[0:7])
+
 print(marks[1:9])
 print(marks[1:9:3])
 

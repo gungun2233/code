@@ -1,4 +1,4 @@
-num = 18
+num = 19
 if (num < 0):
     print("Number is negative.")
 elif (num > 0):

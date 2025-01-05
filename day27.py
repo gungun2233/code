@@ -21,7 +21,7 @@ else:
 
 
 
-print(marks[1:9])
+
 print(marks[1:9:3])
 
 lst = [i*i for i in range(10)]

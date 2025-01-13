@@ -16,7 +16,6 @@ a = 9
 b = 8
 isGreater(a, b)
 calculateGmean(a, b)
-# gmean1 = (a*b)/(a+b)
 
 c = 8
 d = 74

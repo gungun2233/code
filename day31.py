@@ -1,6 +1,6 @@
 import time
 t = time.strftime('%H:%M:%S') 
-hour = int(time.strftime('%H')) #"strftime" stands for "string format time used for time formation specified 
+hour = int(time.strftime('%H'))
 hour = int(input("Enter hour: "))
 print(hour)
 

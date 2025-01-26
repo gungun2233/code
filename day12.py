@@ -6,7 +6,6 @@ Hi Harry
 hey I am good
 "I want to eat an apple'''
  
-
 # print(apple) 
 print(name[0])
 

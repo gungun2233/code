@@ -9,7 +9,6 @@ hey I am good
 # print(apple) 
 print(name[0])
 
-
 print(name[3])
 print(name[4])
 # print(name[5]) # Throws an error

@@ -5,7 +5,6 @@ while(i<=38):
   print(i)
 
 print("Done with the loop")
-
 # count = 5
 # while (count > 0):
 #   print(count)

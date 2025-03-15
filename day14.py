@@ -42,10 +42,8 @@ print(str2.isspace())
 
 str1 = "World Health Organization" 
 print(str1.istitle())
-
 str2 = "To kill a Mocking bird"
 print(str2.istitle())
-
 str1 = "Python is a Interpreted Language" 
 print(str1.startswith("Python"))
 str1 = "Python is a Interpreted Language" 

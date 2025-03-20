@@ -30,7 +30,6 @@ print(str1.isalpha())
 
 str1 = "hello world"
 print(str1.islower())
-
 str1 = "We wish you a Merry Christmas\n"
 print(str1.isprintable())
 str1 = "         "       #using Spacebar

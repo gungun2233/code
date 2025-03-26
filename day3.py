@@ -1,5 +1,4 @@
 # Python Tkinter GUI based "LOVE CALCULATOR"
-
 # import tkinter
 from tkinter import *
 # import random module

@@ -1,5 +1,4 @@
 x = int(input("Enter the value of x: "))
-
 match x:
     # if x is 0
     case 0:

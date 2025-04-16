@@ -2,7 +2,6 @@
 #   if(i == 10):
 #     print("Skip the iteration")
 #     continue
-
   
 i = 0
 while True:

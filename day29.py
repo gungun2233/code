@@ -5,7 +5,6 @@ print(len(tup))
 print(tup[0])
 print(tup[-1])
 
-
 if  3421 in tup:
   print("Yes 342 is present in this tuple")
 tup2 = tup[1:4]
